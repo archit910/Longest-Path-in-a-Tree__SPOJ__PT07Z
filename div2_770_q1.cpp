@@ -5,6 +5,7 @@ using namespace  std;
 #define mp make_pair
 int main() {
 //this is a test comment just to check the git features out :)
+	// this is the second comment to check git
 	int n;
 	cin>>n;
 	ll arr[100010],i;
